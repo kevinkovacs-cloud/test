@@ -1,3 +1,0 @@
-First 'Hello world'
-Second 'Hello World'
-
